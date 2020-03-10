@@ -12,7 +12,7 @@
 
 ### 2° e 3° GIORNO - @GIUSEPPE TOTO
 1. La magia dietro il Machine Learning 
-2. Costruire un sistema che riconosce le cifre a mano
+2. Costruire un sistema che riconosce le cifre scritte a mano
 
 Risorse:
  - Slide: per il link ritorna più tardi :)

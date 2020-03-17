@@ -15,7 +15,7 @@
 2. Costruire un sistema che riconosce le cifre scritte a mano
 
 Risorse:
- - Slide: per il link ritorna più tardi :)
+ - Slide
  - Book di riferimento:  
    https://pragprog.com/book/pplearn/programming-machine-learning
 

@@ -1,13 +1,20 @@
-# PROGRAMMA CORSO MACHINE LEARNING
+# INTRODUZIONE
 
-Questo programma è un'introduzione a python e  al machine learning con l'obiettivo di spiegare la "magia" che c'è dietro questo mondo.
+Questo programma è un'introduzione al machine learning con l'obiettivo di spiegare la "magia" che c'è dietro questo mondo.
 
-E' un corso tenuto nella scuola di formazione [Aulab](https://aulab.it/) ad un gruppo di 10 junior developer e suddiviso in 4 giornate.
+E' stato un corso tenuto nella scuola di formazione [Aulab](https://aulab.it/) ad un gruppo di 10 junior developer e suddiviso in 4 giornate.
 
 E' possibile scaricare le slide da questo [link](https://github.com/gtoto007/corso-machine-learning-by-GToto/blob/master/Hello%20machine%20learning.pdf)
 
-Qui è possibile trovare alcune esercitazioni e risorse utili utilizzate durante il corso.
 
+# PROGRAMMA CORSO MACHINE LEARNING
+Di seguito è  possibile trovare alcune esercitazioni e risorse utili utilizzate durante il corso.
+
+Risorse:
+ - [Slide](https://github.com/gtoto007/corso-machine-learning-by-GToto/blob/master/Hello%20machine%20learning.pdf)
+ - [Book di riferimento](https://pragprog.com/book/pplearn/programming-machine-learning)
+ 
+   
 ### 1°GIORNO - @GIUSEPPE TOTO
 1. L'ambiente di Lavoro: Anaconda  
    https://www.youtube.com/watch?v=UmORrAvr4pQ
@@ -21,11 +28,6 @@ Qui è possibile trovare alcune esercitazioni e risorse utili utilizzate durante
 ### 2° e 3° GIORNO - @GIUSEPPE TOTO
 1. La magia dietro il Machine Learning 
 2. Costruire un sistema che riconosce le cifre scritte a mano
-
-Risorse:
- - Slide
- - Book di riferimento:  
-   https://pragprog.com/book/pplearn/programming-machine-learning
 
 ### 4°GIORNO - @GIANCARLO VALENTE
 - Deep Learning e le reti neurali

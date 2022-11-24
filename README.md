@@ -1,5 +1,13 @@
 # PROGRAMMA CORSO MACHINE LEARNING
 
+Questo programma è un'introduzione a python e  al machine learning con l'obiettivo di spiegare la "magia" che c'è dietro questo mondo.
+
+E' un corso tenuto nella scuola di formazione [Aulab](https://aulab.it/) ad un gruppo di 10 junior developer e suddiviso in 4 giornate.
+
+E' possibile scaricare le slide da questo [link](https://github.com/gtoto007/corso-machine-learning-by-GToto/blob/master/Hello%20machine%20learning.pdf)
+
+Qui è possibile trovare alcune esercitazioni e risorse utili utilizzate durante il corso.
+
 ### 1°GIORNO - @GIUSEPPE TOTO
 1. L'ambiente di Lavoro: Anaconda  
    https://www.youtube.com/watch?v=UmORrAvr4pQ
